@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "emmaping.github.io"
+  title: "emmapingel.github.io"
   navbar:
     left:
       - href: index.qmd

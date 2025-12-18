@@ -1,11 +1,53 @@
 ---
-title: "emmaping.github.io"
+title: "About Me"
+image: www/EmmaHeadshot.jpg
+about: 
+  template: marquee
+  image-width: 40em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/emma-pingel
+      icon: linkedin
+    - text: GitHub
+      href: https://emmapingel.github.io/ 
+      icon: github
+    - text: Email
+      href: mailto:emmaping@colostate.edu
+      icon: envelope-at-fill
 ---
 
-This is a Quarto website.
+#### Personal Statement
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm an emerging graduate student at Colorado State University in the Department of Ecosystem Science and Sustainability. In their Professional Science Masters (PSM) program, I've developed the necessary skills to navigate the greenhouse gas policy landscape, estimate emissions for entities at all scales, and assess vulnerabilities in a rapidly changing world. With my supplemental Carbon Management certificate, I am passionate about quantifying the impacts of climate risks for place-based, equitable solutions that decarbonize the economy. This website summarizes my work in R this past semester to illustrate another skill that has been strengthened in the PSM program.
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------
+
+#### Education
+
+**Professional Science Masters** \| Ecosystem Science and Sustainability, Carbon Management
+
+Colorado State University — *Fort Collins, CO*
+
+**Bachelors of Science, *cum laude*** \| Ecosystem Science and Sustainability
+
+Colorado State University — *Fort Collins, CO*
+
+------------------------------------------------------------------------
+
+#### Experience
+
+**Program Support Assistant** \| Dec 2022 - Present
+
+Semester at Sea — *Fort Collins, CO*
+
+**Grassroots Organizer Internship** \| Jun 2025 - Oct 2025
+
+Community for Sustainable Energy — *Fort Collins, CO*
+
+**Summer Sanitation Crew** \| Jul 2022 - Aug 2022
+
+Kemin Industries — *Des Moines, IA*
+
+**Sales Associate** \| Feb 2021 - Feb 2022
+
+Old Navy — *Altoona, IA*

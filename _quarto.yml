@@ -3,17 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "emmapingel.github.io"
+  title: "Emma Pingel"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: project1.qmd
+        text: CO Streamflow Analysis 
+      - href: project2.qmd
+        text: IA Embodied Emissions
 
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
     css: styles.css
     toc: true

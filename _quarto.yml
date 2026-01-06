@@ -6,12 +6,12 @@ website:
   title: "Emma Pingel"
   navbar:
     left:
-      - href: index.qmd
+      - href: home.qmd
         text: Home
-      - href: project1.qmd
-        text: CO Streamflow Analysis 
-      - href: project2.qmd
-        text: IA Embodied Emissions
+      - href: resume.qmd
+        text: Resume 
+      - href: projects.qmd
+        text: Project Samples
 
 format:
   html:

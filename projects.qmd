@@ -1,0 +1,52 @@
+---
+title: "Project Samples"
+author: "Emma Pingel"
+links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/emma-pingel
+      icon: linkedin
+    - text: GitHub
+      href: https://emmapingel.github.io/ 
+      icon: github
+    - text: Email
+      href: mailto:emmaping@colostate.edu
+      icon: envelope-at-fill
+---
+
+### Energy Policy Analysis
+
+Learn about the influence of a national energy policy relative to utility-scale solar, a final project for my Greenhouse Gas Policies course. The Public Utilities Regulatory Act of 1978 has been celebrated as one of the first pieces of clean-energy legislation that catalyzed the energy transition and discoursed fossil fuel use.
+
+[*PURPA Analysis, Fall 2025*](https://drive.google.com/file/d/1z9zvcrs6vYF_6Ok7I0mr2Qgl8LNcLFHx/view?usp=drive_link)
+
+------------------------------------------------------------------------
+
+### Water Demands Vulnerability Analysis
+
+Learn about how changing precipitation patterns and delayed snow melt are impacting farmers in Northeastern Colorado, and what can be done to increase adaptive capacity. As a group project in my Climate Impacts & Risk Assessment course, I helped brainstorm topic parameters, identified factors that affect the exposure and sensitives of this phenomenon in the Vulnerability Assessment, and explained the Monitoring Plan in the Adaptive Strategy Design.
+
+[*Impact of Water Availability on NE CO Farmers, Fall 2025*](https://drive.google.com/file/d/14huswzDY6IH3GfLyg2pZ6Iz5SpKlYulS/view?usp=drive_link)
+
+------------------------------------------------------------------------
+
+### Greenhouse Gas Inventory
+
+Learn about my Applications in Greenhouse Gas Inventories final project calculating the embodied emissions generated in the manufacturing, distribution, and maitenance of wind turbines throughout the state of Iowa. Within this mitigation strategy, I examined how a renewable energy source compares to traditional, fossil-based energy sources to inform policymakers interested in diversifying the state's energy portfolio.
+
+[*Energy Emissions, Spring 2025*](https://drive.google.com/file/d/1BlvCuMdFFVpMdvGWuWL2lMTbQJvxC5de/view?usp=drive_link)
+
+------------------------------------------------------------------------
+
+### Suitability Analysis for Oil/Gas Drilling
+
+Learn about the implications of resource extraction in Colorado as Colorado National Heritage Program works to balance industry interests and community needs. As a part of this capstone group, I helped define what a barren ecosystem is, manually classified barrens in GoogleEarth to enhance the model's algorithm, and present this information to our stakeholders at CNHP.
+
+[*Mapping Colorado Barrens, Spring 2025*](https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=arcgisstorymaps&response_type=token&expiration=20160&redirect_uri=https%3A%2F%2Fstorymaps.arcgis.com%2Foauth-callback%3FreturnURL%3D%252Fstories%252F048366c2e1a24de5bb1903f49bf4ff0e&hideCancel=true&showSignupOption=true&force_login=true) \[requires ArcGIS Online account\]
+
+------------------------------------------------------------------------
+
+### Community Center Proposal
+
+Learn about how a mountain town in Costa Rica can update their community center to meet current needs and continue fostering connections. With personal contributions to the Innovation, Ethical Standards, and Environmental Quality guiding principles, my group drafted a mock proposal to improve usability of this open-air space for year-round events.
+
+[*La Cancha, Winter 2025*](https://drive.google.com/file/d/16NrN3rxlo5ZL4vu6VQ080IKy_RiTN2iM/view?usp=drive_link)

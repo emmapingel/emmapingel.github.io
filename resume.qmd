@@ -1,0 +1,102 @@
+---
+title: "Resume"
+author: "Emma Pingel"
+links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/emma-pingel
+      icon: linkedin
+    - text: GitHub
+      href: https://emmapingel.github.io/ 
+      icon: github
+    - text: Email
+      href: mailto:emmaping@colostate.edu
+      icon: envelope-at-fill
+---
+
+### Technical Toolkit
+
+-   Data Science & Management: R, DAYCENT, ArcGIS Pro, OpenLCA, Salesforce
+
+-   Environmental Applications: Greenhouse Gas Inventories (based on IPCC 2006 Guidelines), Site Suitability Analysis, Life Cycle Assessment for Sustainability, Vulnerability Analysis & Adaptive Capacity Design
+
+-   Communication: Proficiency in M365 & G-Suite Apps, Scientific Writing, Policy Analysis, Adult Education, Nonprofit Experience, Email & Phone Outreach/Engagement
+
+------------------------------------------------------------------------
+
+### Sustainability & Bioscience Experience
+
+**Grassroots Organizer Internship** \| **Jun 2025 - Oct 2025**
+
+Community for Sustainable Energy — *Fort Collins, CO*
+
+-   Canvassed to raise public awareness of local energy issues and organize citizen support.
+
+-   Advocated for sustainable action that reduces pollution, lowers energy bills, and supports Northernn Colorado's economy through smart energy technology and policy.
+
+-   Built community connections to foster a greener, more resilient future that offers flexible mitigation strategies in response to a changing climate.
+
+**Summer Sanitation Crew** \| **Jul 2022 - Aug 2022**
+
+Kemin Industries — *Des Moines, IA*
+
+-   Cleaned bioscience facilities to prevent accidents and cross-contamination of products that serve various
+    industries such as aquaculture and biological pest control.
+
+-   Maintained clear communication with the sanitation crew and surrounding facility workers for adaptable
+    solutions in response to unexpected events or emergencies.
+
+-   Utilized PPE equipment to safeguard against injury following OSHA standards.
+
+------------------------------------------------------------------------
+
+### Business Efficiency & Sales Experience
+
+**Program Support Assistant** \| **Dec 2022 - Present**
+
+Institute for Shipboard Education — *Fort Collins, CO*
+
+-   Engages with potential clients using CRM tools like Salesforce and Hubspot.
+
+-   Assists with internal goals that aim to increase daily productivity and overall success of the company.
+
+-   Contacts students for retention purposes and to ensure travel preparation aligns with requirements.
+
+**Sales Associate** \| **Feb 2021 - Feb 2022**
+
+Old Navy — *Des Moines, IA*
+
+-   Exemplified sales floor customer service and supported employee relations with regular training.
+
+-   Facilitated transactions using Gap payment systems while resolving potential conflicts to ensure a welcoming in-store environment.
+
+-   Recognized for achieving monthly sales goals in a tiered rewards system.
+
+------------------------------------------------------------------------
+
+### Natural Resource Volunteer Work
+
+**Website Content Manager** \| **Jun 2023 - Jan 2024**
+
+Arboretum San Antonio — *San Antonio, TX*
+
+-   Supported the planning and creation of the organization's website (design, content, configurations).
+
+-   Drafted sections for initial webpages using academic background to advocate for urban green spaces with inclusive language options like Spanish for diverse audiences.
+
+-   Routinely met with the director and other media specialists to innovate the organization's platform.
+
+------------------------------------------------------------------------
+
+### Education
+
+**Professional Science Masters** \| **May 2026**
+
+Ecosystem Science and Sustainability, Concentration in Carbon Management
+
+Colorado State University — *Fort Collins, CO*
+
+**Bachelors of Science, *cum laude*** \| **Spring 2025**
+
+Ecosystem Science and Sustainability, Minors in Global Environmental Sustainability & Applied Environmental Policy Analysis
+
+Colorado State University — *Fort Collins, CO*
